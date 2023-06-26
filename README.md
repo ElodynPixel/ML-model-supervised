@@ -17,3 +17,17 @@ The regression model involves 4 steps
       Test
       Consume
   
+The Classification model involves 4 steps
+  Prepare data
+  Train model
+  Evaluate performance
+    1. Confusion matrix
+      False Positive
+      True Positive
+      False Negative
+      True Negative
+	  2. Choosing a threshold
+	  3. ROC curve and AUC metric
+  Deploy a predictive service
+    1. Inference pipeline
+	  2. Deployment
