@@ -16,6 +16,11 @@ The regression model involves 4 steps
       Endpoint
       Test
       Consume
+   The compute instances that exists for a regression model is as follow:
+   	Compute Instance
+    	Compute Cluster
+     	Inference cluster
+      	Attached compute
   
 The Classification model involves 4 steps
   Prepare data
