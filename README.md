@@ -1,7 +1,7 @@
 # ML-model-supervised
 Where supervised Machine learning models will be tested
 Supervised Machine learning can be divided into calssification model and a regression model.
-The regression model involves 4 steps
+##The regression model involves 4 steps
   Preparing the data
   Training the model
   Evaluating the performance
@@ -22,7 +22,7 @@ The regression model involves 4 steps
      	Inference cluster
       	Attached compute
   
-The Classification model involves 4 steps
+##The Classification model involves 4 steps
   Prepare data
   Train model
   Evaluate performance
